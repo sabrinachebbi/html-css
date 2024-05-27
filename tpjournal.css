@@ -1,0 +1,58 @@
+.header{
+    display: flex;
+    border: 1px black solid;
+    width: 70%;
+   height:100px;
+   background-color: aqua;
+}
+.journal{
+    border: 1px black solid; 
+    height: 40px;
+
+}
+.politique{
+    height: 20px;
+}
+.article{
+    border: 1px black solid;
+    width: 70%;
+    height: 700px;
+    padding: 10px;
+}
+
+.titre1{
+    text-align: center;
+    margin:5px;
+}
+
+.section1{
+    border: 1px black solid;
+    display: flex;
+    margin:5px;
+}
+
+.boite1{
+    border: 1px black solid;
+    width: 15%; 
+    height: 500px;
+    background-color: rgb(84, 119, 50);
+    margin:5px;
+}
+.boite2{
+    border: 1px black solid;
+    width: 50%;
+    height: 500px;
+    background-color: rgb(128, 17, 76);
+    width: 40%;
+    margin:5px;
+ 
+
+}
+
+.bordure{
+    border: 1px black solid; 
+    background-color:rgb(236, 172, 204);
+    width: 70%;
+    margin: 5px;
+
+}

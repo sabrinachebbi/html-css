@@ -1,0 +1,11 @@
+#text{
+    background-color: rgb(152, 76, 152);
+    width:200px;
+    height: 950px;
+    color: aliceblue;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: x-large;
+flex-wrap: wrap;
+padding:20px;
+}

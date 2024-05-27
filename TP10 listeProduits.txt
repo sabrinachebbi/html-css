@@ -1,0 +1,11 @@
+Chemise
+Une belle chemise pour toutes les occasions.
+$29.99
+
+Pantalon
+Un pantalon confortable et élégant.
+$39.99
+
+Chaussures
+Des chaussures de haute qualité pour vos pieds.
+$49.99

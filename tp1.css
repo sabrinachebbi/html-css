@@ -1,0 +1,38 @@
+#titre{
+    background-color: #f0ffff;
+    font-size: large;
+   }
+
+.contenu{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between !important;
+    padding: 40px;
+    background-color: rgb(248, 221, 185);
+}
+.container {
+    border:1px black solid;
+    padding: 20px;
+    background-color: #f0ffff;
+    display:flex
+
+}
+img{
+    height: 150px;
+
+   
+}
+#titre{
+    
+    font-style: italic;
+    font-weight: bolder;
+ }
+ .couleur{
+    color: chocolate;
+    text-align: left;
+  
+ }
+.text{
+    text-align: center;
+    padding: 20px;
+}

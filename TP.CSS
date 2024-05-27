@@ -1,0 +1,31 @@
+.container{
+    display: flex;
+    border:1px black solid;
+}
+.box{
+    background-color: aqua;
+    height: 100px;
+    width: 100%;
+    border:1px black solid;
+
+}
+
+  
+
+.contenu{
+    border:1px black solid;
+    margin: 10px;
+   
+}
+.title{
+    font-weight: bolder;
+    text-align: center; 
+    border:1px black solid;
+    display: flex;
+}
+.box1{
+    background-color: darkgreen;
+}
+.box2{
+    background-color: deeppink;
+}

@@ -1,0 +1,122 @@
+
+body{
+    width: 1100px;
+    margin: auto;
+    background-color:azure
+}
+.article{
+    flex-wrap: wrap;
+   align-items: baseline;
+   font-weight: bolder;
+   font-size: x-large;
+   font-style: italic;  
+}
+.title{
+    color: brown;
+
+ 
+}
+
+.sanfransico{
+        width:1100px ;
+        border-radius: 8px;
+    }
+.title{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+     text-align: end;
+}
+.paragraphe{
+    font-size: 140%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:lighter;
+}
+
+.image{
+    width:5%;
+    height: 40px;
+    
+}
+.titre2{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    font-style: oblique;
+    color: brown;
+    font-weight: bolder;
+}
+
+ p{
+    text-align: justify;
+}
+.auteur{
+    display: flex;
+    
+    
+    
+    
+   }
+.text{
+   
+    font-family:'Times New Roman', Times, serif;
+   font-size:150%;
+  margin: auto;
+  width: 800px;
+  padding: 20px;
+ 
+  }
+  .contenu{
+    font-weight: bold;
+    color: rgba(185, 42, 42, 0.979);
+    font-style: italic;
+  }
+ 
+   
+
+
+
+.titre3{
+    color:white;
+      background-color:grey;
+      font-weight: bolder;
+    width: 300px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 8px;
+  
+    
+      
+    
+}
+.imageclasse{
+    border: 1px black solid;
+}
+
+.tp11{
+    display: flex;
+  
+}
+.photo{
+    width: 40px;
+    height: auto;
+   
+}
+.footers{
+    display: flex;
+    justify-content: space-between;
+
+}
+.footerphoto{
+   
+   text-align: center;
+   
+
+   
+}
+ .footerphoto h4{
+    margin-bottom: 50px;
+ }
+
+.text1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
